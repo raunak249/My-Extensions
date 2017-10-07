@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name" : "Wubba Lubba Dub Dub",
+	"version" : "1.0",
+
+	"description" : "This is  a simple addon",
+	"chrome_url_overrides" : {
+		"newtab" : "popup.html"
+	}
+
+
+
+
+}
